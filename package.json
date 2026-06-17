@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@content-island/api-client": "^0.22.0",
-    "astro": "^6.4.5"
+    "astro": "^6.4.7"
   },
   "devDependencies": {
     "prettier": "^3.8.4",
