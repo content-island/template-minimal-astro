@@ -15,7 +15,7 @@
   },
   "devDependencies": {
     "prettier": "^3.9.8",
-    "prettier-plugin-astro": "^1.0.1"
+    "prettier-plugin-astro": "^1.1.0"
   },
   "overrides": {
     "@bruits/satteri-wasm32-wasi": {
